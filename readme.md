@@ -1,4 +1,4 @@
-# SARI - Women Safety
+# SARI - Women Safety 
 
 Women's Safety App
 Our Women's Safety App is designed to provide a sense of security and support to women who may feel vulnerable or at risk while walking alone, travelling to unfamiliar areas, or experiencing any form of harassment or abuse. The app offers a range of features that can help women stay safe and feel more confident, including:
@@ -61,7 +61,7 @@ Automatically records calls made to emergency contacts for evidence purposes.
 Example: User experiencing harassment or abuse uses app to record calls made to emergency contacts for use as evidence.
 
 ### Important Notes
-While our women's safety app could be a useful tool for many women, it's important to remember that not everyone has a smartphone or has access to one. Therefore, we recommend considering other options, such as:
+While our women's safety app could be a useful tool for many women, it is important to remember that not everyone has a smartphone or has access to one. Therefore, we recommend considering other options, such as:
 
 ### Emergency hotlines: 
 Many countries have dedicated emergency hotlines that women can call in case of an emergency. These hotlines are usually toll-free and can be accessed from any phone, including landlines.
