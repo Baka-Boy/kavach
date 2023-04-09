@@ -63,6 +63,8 @@ Example: User experiencing harassment or abuse uses app to record calls made to 
 ### Important Notes
 While our women's safety app could be a useful tool for many women, it's important to remember that not everyone has a smartphone or has access to one. Therefore, we recommend considering other options, such as:
 
-### Emergency hotlines: Many countries have dedicated emergency hotlines that women can call in case of an emergency. These hotlines are usually toll-free and can be accessed from any phone, including landlines.
+### Emergency hotlines: 
+Many countries have dedicated emergency hotlines that women can call in case of an emergency. These hotlines are usually toll-free and can be accessed from any phone, including landlines.
 
-### Safe transportation: Women can use safe transportation options such as designated women-only taxi services or public transportation that has separate sections for women.
+### Safe transportation:
+Women can use safe transportation options such as designated women-only taxi services or public transportation that has separate sections for women.
