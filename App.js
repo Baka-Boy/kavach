@@ -27,7 +27,6 @@ function HomeScreen({ navigation }) {
       
         <View style={styles.cardContainer}>
           <Card name="Track Location" image={require('./assets/trackloc.png')} onPress={handleTrackLocationPress} />
-          <Card name="Track Location" image={require('./assets/trackloc.png')} />
           <Card name="Alarm Button" image={require('./assets/alarmbutton.png')} />
           <Card name="Virtual Escort" image={require('./assets/virtualescort.png')} />
           <Card name="Safe Route Planner" image={require('./assets/srpp.png')} />
